@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Informes DWH";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    h2 {
+        color: #333333;
+        font-family: 'Bitter', serif;
+        font-size: 50px;
+        font-weight: normal;
+        line-height: 54px;
+        margin: 0 0 54px;
+    }
+</style>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <br />
+    <br />
+    <br />
+    <h2>Informes</h2>
+    <br />
+    <center>
+            @Html.ActionLink("Reservas confirmadas", "ReservasConfirmadas", null, new { @class = "btn btn-default" })
+            <br />
+            <br />
+            @Html.ActionLink("Viajes llenos (+85%)", "ViajesLlenos", null, new { @class = "btn btn-default" })
+            <br />
+            <br />
+            @Html.ActionLink("Viajes largos (+3 rutas)", "RutasLargas", null, new { @class = "btn btn-default" })
+            <br />
+            <br />
+            @Html.ActionLink("Reservas en cola", "ReservasCola", null, new { @class = "btn btn-default" })
+            <br />
+            <br />
+            @Html.ActionLink("Informacion nautica de Capitanes", "InformacionNautica", null, new { @class = "btn btn-default" })
+    </center>
+    <br />
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿@using RedCruises.Models
+@model IEnumerable<RedCruises.Models.InfoNautica>
+
+@{
+    ViewBag.Title = "Informacion nautica";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    h2 {
+        color: #333333;
+        font-family: 'Bitter', serif;
+        font-size: 50px;
+        font-weight: normal;
+        line-height: 54px;
+        margin: 0 0 54px;
+    }
+
+    .container {
+        margin-top: 40px;
+    }
+
+    .btn-primary {
+        width: 100%;
+    }
+</style>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <br />
+            <br />
+            <br />
+            <h2>Informacion nautica de los capitanes</h2>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Horas)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Millas)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Horas)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Millas)
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    }
+</body>
+</html>

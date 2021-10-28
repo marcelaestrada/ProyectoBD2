@@ -1,0 +1,296 @@
+C:\Users\marce\source\repos\RedCruises\bin\RedCruises.dll.config
+C:\Users\marce\source\repos\RedCruises\bin\RedCruises.dll
+C:\Users\marce\source\repos\RedCruises\bin\RedCruises.pdb
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csc.exe
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csc.exe.config
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csc.rsp
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csi.exe
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csi.exe.config
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\csi.rsp
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.AppContext.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Console.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.IO.Compression.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Net.Http.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.ValueTuple.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\vbc.exe
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\vbc.exe.config
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\vbc.rsp
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\VBCSCompiler.exe
+C:\Users\marce\source\repos\RedCruises\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marce\source\repos\RedCruises\bin\Antlr3.Runtime.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marce\source\repos\RedCruises\bin\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Helpers.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Mvc.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Optimization.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Razor.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.Razor.dll
+C:\Users\marce\source\repos\RedCruises\bin\WebGrease.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Helpers.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Mvc.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Optimization.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.Razor.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Web.WebPages.Razor.xml
+C:\Users\marce\source\repos\RedCruises\bin\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\RedCruises\bin\Antlr3.Runtime.pdb
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.Razor.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marce\source\repos\RedCruises\obj\Debug\RedCruises.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\RedCruises\obj\Debug\RedCruises.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\RedCruises\obj\Debug\RedCruises.csproj.CopyComplete
+C:\Users\marce\source\repos\RedCruises\obj\Debug\RedCruises.dll
+C:\Users\marce\source\repos\RedCruises\obj\Debug\RedCruises.pdb
+C:\Users\marce\source\repos\RedCruises\bin\Azure.Core.dll
+C:\Users\marce\source\repos\RedCruises\bin\Azure.Identity.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Data.SqlClient.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Identity.Client.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Buffers.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Memory.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Numerics.Vectors.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.AccessControl.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.Permissions.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.Principal.Windows.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Text.Encodings.Web.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Text.Json.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\marce\source\repos\RedCruises\bin\System.ValueTuple.dll
+C:\Users\marce\source\repos\RedCruises\bin\Azure.Core.xml
+C:\Users\marce\source\repos\RedCruises\bin\Azure.Identity.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Data.SqlClient.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Identity.Client.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\marce\source\repos\RedCruises\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Buffers.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Memory.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Numerics.Vectors.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.AccessControl.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.Permissions.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Security.Principal.Windows.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Text.Encodings.Web.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Text.Json.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\marce\source\repos\RedCruises\bin\System.ValueTuple.xml
+C:\Users\marce\source\repos\RedCruises\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\source\repos\RedCruises\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\RedCruises.dll.config
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\RedCruises.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\RedCruises.pdb
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csc.exe
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csc.exe.config
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csc.rsp
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csi.exe
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csi.exe.config
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\csi.rsp
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.AppContext.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Console.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.IO.Compression.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Net.Http.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.ValueTuple.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\vbc.exe
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\vbc.exe.config
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\vbc.rsp
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\VBCSCompiler.exe
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Antlr3.Runtime.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Azure.Core.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Azure.Identity.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Data.SqlClient.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Identity.Client.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Newtonsoft.Json.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Buffers.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Memory.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Numerics.Vectors.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.AccessControl.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.Permissions.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.Principal.Windows.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Text.Encodings.Web.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Text.Json.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.ValueTuple.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Helpers.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Mvc.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Optimization.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Razor.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.Razor.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\WebGrease.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Azure.Core.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Azure.Identity.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Data.SqlClient.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Identity.Client.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Buffers.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Memory.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Numerics.Vectors.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.AccessControl.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.Permissions.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Security.Principal.Windows.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Text.Encodings.Web.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Text.Json.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.ValueTuple.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Helpers.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Mvc.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Optimization.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.Razor.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\System.Web.WebPages.Razor.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Newtonsoft.Json.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Antlr3.Runtime.pdb
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.Razor.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\obj\Debug\RedCruises.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\obj\Debug\RedCruises.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\obj\Debug\RedCruises.csproj.CopyComplete
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\obj\Debug\RedCruises.dll
+C:\Users\marce\OneDrive\Desktop\2021\Segundo ciclo\Bases de datos II\ProyectoBD2\RedCruises\obj\Debug\RedCruises.pdb
